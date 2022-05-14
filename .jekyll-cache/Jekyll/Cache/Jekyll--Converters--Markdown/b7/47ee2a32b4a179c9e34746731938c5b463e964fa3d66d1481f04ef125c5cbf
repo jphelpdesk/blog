@@ -1,0 +1,33 @@
+I"�<h1 id="docker-pago">Docker Pago?</h1>
+
+<p>A Docker informou na semana passada sua nova políticas de assinatura dos produtos docker, isso vem gerando algumas dúvidas se o Docker vai ser pago ou não, aqui neste o post blog da própria Docker <a href="https://www.docker.com/blog/updating-product-subscriptions/">Link Post</a> tem todas as informações sobre esta mudança.</p>
+
+<h2 id="pontos-importantes-do-post-do-blog">Pontos importantes do post do blog</h2>
+
+<ul>
+  <li>
+    <p>Apenas será cobrado o Docker Desktop, para as empresas que faturam mais de 10 Milhões de dólar de receita anual e tem mais de 250 funcionários.</p>
+  </li>
+  <li>
+    <p>Para empresa que não se enquadram no item acima ainda continua gratuito o Docker desktop.</p>
+  </li>
+  <li>
+    <p>Uso pessoal educacional e projeto de código aberto não comercial também continua gratuito.</p>
+  </li>
+  <li>
+    <p>Agora se sua empresa enquadra no primeiro item será disponibilizado três tipos de assinatura pro team e business , o valor cobrado será a partir de $ 5 por usuário mês</p>
+  </li>
+  <li>
+    <p>Cobrança começou em 31/08/2021 com carência até 31/01/22 paras as empresas se adequarem</p>
+  </li>
+</ul>
+
+<h5 id="resumindo-o-docker-vai-continuar-de-free-para-a-grande-maioria-que-utiliza-porem-algumas-grandes-corporações-será-necessário-pagamento"><strong>Resumindo o Docker vai continuar de free para a grande maioria que utiliza porem algumas grandes corporações será necessário pagamento.</strong></h5>
+
+<h3 id="opções-ao-docker">Opções ao Docker</h3>
+
+<p>Hoje o quando falamos em container o Docker e o primeiro nome que vem a cabeça, por tudo que ele representa para a comunidade e como o mesmo alavancou a utilização de container, porem ele não é o único:
+<strong>Podman</strong> e também e um gerenciador de container que vem ganhando muito espaço, e vem sendo utilizado com a nova versão do Kubernets <a href="https://podman.io/">saiba mais</a>.</p>
+
+<h3 id="até-proxima"><strong>Até Proxima</strong></h3>
+:ET

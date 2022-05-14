@@ -1,0 +1,45 @@
+---
+layout: post
+title: LGPD
+date: 2021-12-11 19:32:20 +0500
+description: # Add post description (optional)
+img: security.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [Dados,Lei,Segurança,Proteção]
+---
+Bem provavel que você já efetuo um cadastro para ganhar um binde ou ate mesmo fazer comprar nhe! porem logo em seguida voce recebeu no seu email ou aplicativos de mensagem propaganda venda de serviços, nos quais voce nunca passou seu contato nenhum. 
+
+Provavelmente o cadastro preenchido por voce foi compartilhado entre essa empresas e um pratica apesar de ilegal muito comum ja que sabemos o os dados soa bem muito valioso nos dias de hoje.
+
+Para tentar resolver, minimizar ou deixar essa relação e tratamento do seus dados mais transparente foi criado a LGPD
+
+## O que é LGPD
+
+Pois bem essa sigla LGPD = Lei Proteção Geral de Dados, A LGPD é a lei nº 13.709, aprovada em agosto de 2018 e com vigência a partir de agosto de 2020. [Lei_LGPD](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm#art65..)
+
+Essa Lei vale tando para pessoas fisica (PF) e Pessoas Juridicas (CNPJ), e dados fisicos e digitais e incluem na lei um serie de regras e normal que visa garantir a privacidade do seus dados porem toda lei tem algumas exceções sao elas: para fins Jornalistico, Artistico e Academicos.
+
+A LGPD tem como modelo GPDR que é a regulamentação vigente na europa em relação a proteção de dados, no Brasil foi ate criado um orgao vinculado ao governo para a fiscalização e aplicação desta lei que é o ANPD (Autoridade Nacional de Proteção de Dados) 
+
+## O que muda com lei ?
+
+Com a nova lei todas as empresa seja ela nacional ou estrangeira que fazem captação de dados sendo fisicamente ou digitalmente precisa informar a quem fornecer os dados para qual finalizada sera usado e o fornecedor dos dados precisar autorizar. 
+
+Essa captação vai desde uma pesquisa que precisa de nome e telefone, ate cadastro de funcionarios a lei abrange todos esses casos, quanto mais sensivel o dado coletado mais restritiva fica a lei.
+
+Voce ja deve ter percebido que varios site e apps ja atualizaram suas politicas de privacidade para poder se adequar a novas leis.
+
+
+## E o não cumprimento da LGPD?
+
+O não cumprimento a empresa via levar um multa dependo do caso e da infração, ja tivemos caso de descumprimento da lei foi um construtora que compartilhava os dados dos compradores de apartamentos para empresas que pegando esses dados e oferecia serviços e produtos para o novo apartamento.
+
+Outro caso foi de uma empresa de varejo que apos im processo seletivo os participantes receberao em casas cartoes do grupo desta rede.
+
+A lei e bem ampla e tem muitas particularidades e necessarios estrutura e analisar cada caso, porme o passo mais important foi dado em relação a proteção de dados , por ser relativamente  a lei ainda muita nova e algumas empresa ainda vao se adequar na lei.
+
+### Links com mais informações 
+
+* [TecMundo](https://www.youtube.com/watch?v=oFRROvMVUWQ){:target="_blank"}
+* [CHC Advocacia](https://www.youtube.com/watch?v=hu6XIc7QVnE){:target="_blank"}
+* [ Denise Tavares](https://www.youtube.com/watch?v=YBMq5c2ssY0){:target="_blank"}
