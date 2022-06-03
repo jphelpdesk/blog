@@ -11,10 +11,11 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Jean Pierre F Theodoro # add your name
 author-img: profile.jpeg # add your photo
-about-author: Profissional Formado em ADS com ampla experiencia em Infraestrutura e Redes, e apaixonado por Tecnologia e Videogame  # add description
+social-email: jphelpdesk@outlook.com.br
+about-author: Profissional com ampla experiencia em Infraestrutura e Redes, e apaixonado por Tecnologia e Videogame   # add description
 social-twitter: HelpdeskJp # add your Twitter handle
 #social-facebook: JeanPierreHelpDesk # add your Facebook handle
-social-github: jeanpierreft # add your Github handle
+social-github: jphelpdesk # add your Github handle
 social-linkedin: jeanpierrefernandesTheodoro # add your Linkedin handle
 social-email: jphelpdesk@outlook.com.br
 social-instagram: jp.helpdesk
