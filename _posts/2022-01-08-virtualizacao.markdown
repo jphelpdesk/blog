@@ -10,7 +10,7 @@ tags: [blog, Github,jekyll, Vscode, Markdown]
 ---
 # Virtualização ?
 
-Na mais é que a emulação de  computadores e redes storage, voce virtualiza essa tecnologias isso gera um serie de benefícios para sua infraestrutura.
+É que uma emulação de  computadores e redes storage, voce virtualiza essa tecnologias isso gera um serie de benefícios para sua infraestrutura.
 
 Por exemplo invés de comprar 20 servidor e baixo e médio porte, voce pode comprar um servidor parudo e criar esses 20 servidores virtualmente nele.
 Essa tecnologia também proporcionou a criação da clouds que é assunto para outro em breve .
