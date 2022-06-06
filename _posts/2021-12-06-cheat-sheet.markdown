@@ -8,10 +8,10 @@ fig-caption: # Add figcaption (optional)
 tags: [dica,linux,docker]
 ---
 ---
-# Precisando de ajuda rapida ?
+# Precisando de ajuda rápida ?
 
 Precisando de ajuda no dia dia com aquele comando que na hora de fazer da um branco, com esse intuito de ajudar a comunidade a equipe da LinuxTips resolveu fazer alguns CheatSheet das principais tecnologias e ferramentas.
-Isso e muito bom pois podemos fazer aquela colinha de consulta rapida isso auxilia muito na nossa produtividade durante a correria do dia-dia.
+Isso e muito bom pois podemos fazer aquela colinha de consulta rápida isso auxilia muito na nossa produtividade durante a correria do dia-dia.
 
 Abaixo o um modelo
 

@@ -10,9 +10,9 @@ tags: [blog, Github,jekyll, Vscode, Markdown]
 ---
 # Virtualização ?
 
-É que uma emulação de  computadores e redes storage, voce virtualiza essa tecnologias isso gera um serie de benefícios para sua infraestrutura.
+É uma emulação de computadores e redes storage, voce virtualiza essa tecnologias isso gera um serie de benefícios para sua infraestrutura.
 
-Por exemplo invés de comprar 20 servidor e baixo e médio porte, voce pode comprar um servidor parudo e criar esses 20 servidores virtualmente nele.
+Por exemplo invés de comprar 20 servidor e baixo e médio porte, voce pode comprar um servidor parrudo e criar esses 20 servidores virtualmente nele.
 Essa tecnologia também proporcionou a criação da clouds que é assunto para outro em breve .
 
 ## Como funciona  ?
@@ -35,13 +35,13 @@ Esse modelo de computação tem muitos beneficio que fizeram aumentar sua popula
 * Simular ambiente de teste
 * Teste de segurança isolados e monitorados 
 
-## Tipos possiveis de vritualização 
+## Tipos possíveis de virtualização 
 
 * Maquinas  
 * Redes 
 * Storage 
 
-# Hyepervisor  
+# Hypervisor  
 
 * **HyperV**: Muito utilizado em rede  microsoft poi é desenvolvido e mantido pela mesma.
 * **vSphere**: e o líder de mercado corporativo desenvolvidos e mantido pela VMWare
